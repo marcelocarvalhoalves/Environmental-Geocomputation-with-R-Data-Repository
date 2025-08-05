@@ -1,2 +1,2 @@
 # Environmental-Geocomputation-with-R-Data
-Data repository of thee Environmental Geocomputation with R book
+Data repository of the Environmental Geocomputation with R book.
